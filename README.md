@@ -11,6 +11,8 @@ These are just some rendered pictures.
 ![PCB rendering](./graphs/pcb_backview.png)
 
 #### Case:
+![Case rendering](./graphs/mid_frame.PNG)
+![Case rendering](./graphs/bottom_case.png)
 ![Case rendering](./graphs/assembly_frontview.PNG)
 ![Case rendering](./graphs/assembly.PNG)
 ![Case rendering](./graphs/assembly_sideview.PNG)
