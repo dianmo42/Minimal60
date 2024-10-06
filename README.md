@@ -1,5 +1,7 @@
 ### Minimal60
 
+Individual files may be updated separately and are not compatible with each other, please download the [release version](https://github.com/dianmo42/Minimal60/releases).
+
 These are just some rendered pictures.
 
 #### Plate with and without flex cut:
@@ -20,5 +22,3 @@ These are just some rendered pictures.
 
 ### Note
 There is no qmk/via firmware available since I'm stilling learning XD
-
-I would apreciate it very much if anyone writes one and make a pull request!
