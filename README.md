@@ -4,7 +4,7 @@ This keyboard is inspired by Neson Design Keyboards, and GMK keycaps "Minimal".
 
 ## Case
 
-The original [step file](./case/Minimal60.step) comes with no decoration. Please, feel free to make your own modification. You may find some useful [resources](./resources/) here.
+The original [step file](./case/Minimal60.step) comes with no decoration. Please, feel free to make your own modification. You may find some useful resources [here](./resources/).
 
 ![top_view](./pics/top_view.png)
 
